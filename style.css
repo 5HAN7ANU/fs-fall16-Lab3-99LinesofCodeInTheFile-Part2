@@ -1,0 +1,25 @@
+* {
+    background-color: blue;
+}
+
+h1 {
+    color: greenyellow;
+}
+
+.friend {
+    background-color: red;
+}
+
+p {
+    background-color: red;
+}
+
+div.friend h3{
+    text-transform: uppercase;
+    color: limegreen;
+}
+
+button {
+    color: red;
+    background-color: yellow;
+}
